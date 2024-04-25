@@ -1,4 +1,4 @@
-//  for 
+//  for
 
 // 1-masala
 
@@ -118,23 +118,3 @@ for (let i = 1; i <= n; i++) {
 //   sum += 1 / i;
 // }
 // console.log(`yig'indi: ${sum}`);
-
-// 11-masala
-
-// let n = +prompt(" son kiriting");
-// let sum = 0;
-// for (i = n; i <= n * 2; i++) {
-//   sum += i * i;
-//   console.log(i * i);
-// }
-// console.log(`yig'indi: ${sum}`);
-
-// 12-masala
-
-// let n = +prompt(" son kiriting");
-// let sum = 1;
-
-// for (i = 1; i <= n; i++) {
-//   sum *= i / 10 + 1;
-// }
-// console.log(`ko'paytma: ${sum.toFixed(3)}`);
